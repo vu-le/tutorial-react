@@ -7,7 +7,7 @@ export default class Layout extends React.Component {
   constructor() {
     super();
 
-    
+
     this.state = {
       title: "Welcome wwww",
     };
@@ -28,7 +28,7 @@ export default class Layout extends React.Component {
     }
 
     let user = {
-      firstName: 'Harper ',
+      firstName: 'Harper 123 ',
       lastName: 'Perez'
     };
 
